@@ -1,0 +1,20 @@
+/**
+ *  @link https://github.com/carlvallory/PMVC
+ *  @version 0.0.4
+ *  @license none (public domain)
+ **/
+
+body {
+    background-color:#393f4c;
+    color:#9f9dc0;
+}
+
+#header {
+    padding: 3rem;
+}
+#content {
+    padding: 3rem;
+}
+#footer {
+    padding: 3rem;
+}
